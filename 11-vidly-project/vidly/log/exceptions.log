@@ -1,0 +1,154 @@
+27/08/2021, 20:22:52 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\Kaveen Thivanka\Desktop\NodeJs\11-unit-testing-02\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\11-unit-testing-02\index.js:7:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+27/08/2021, 22:55:41 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\Kaveen Thivanka\Desktop\NodeJs\11-unit-testing-02\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\11-unit-testing-02\index.js:7:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+27/08/2021, 23:24:16 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\Kaveen Thivanka\Desktop\NodeJs\11-unit-testing-02\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\11-unit-testing-02\index.js:7:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+28/08/2021, 15:55:26 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\Kaveen Thivanka\Desktop\NodeJs\11-unit-testing-02\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\11-unit-testing-02\index.js:7:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+28/08/2021, 22:09:24 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\Kaveen Thivanka\Desktop\NodeJs\12-test-driven-development\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\NodeJs\12-test-driven-development\index.js:7:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+29/08/2021, 17:24:38 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\index.js:7:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+29/08/2021, 18:36:34 [31merror[39m: [31muncaughtException: config is not defined[39m
+[31mReferenceError: config is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\index.js:10:32)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+29/08/2021, 18:36:52 [31merror[39m: [31muncaughtException: config is not defined[39m
+[31mReferenceError: config is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\index.js:10:32)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+29/08/2021, 18:37:20 [31merror[39m: [31muncaughtException: config is not defined[39m
+[31mReferenceError: config is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\index.js:10:32)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+29/08/2021, 18:40:18 [31merror[39m: [31muncaughtException: config is not defined[39m
+[31mReferenceError: config is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\index.js:10:32)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+29/08/2021, 19:49:39 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defiend.[39m
+[31m    at module.exports (C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\startup\config.js:7:11)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\index.js:8:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+29/08/2021, 22:43:07 [31merror[39m: [31muncaughtException: listen EADDRINUSE: address already in use :::3900[39m
+[31mError: listen EADDRINUSE: address already in use :::3900[39m
+[31m    at Server.setupListenHandle [as _listen2] (net.js:1320:16)[39m
+[31m    at listenInCluster (net.js:1368:12)[39m
+[31m    at Server.listen (net.js:1454:7)[39m
+[31m    at Function.listen (C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\node_modules\express\lib\application.js:618:24)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\index.js:13:20)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)[39m
+29/08/2021, 22:57:31 [31merror[39m: [31muncaughtException: Cannot find module 'cors'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\startup\cors.js[39m
+[31m- C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\index.js[39m
+[31mError: Cannot find module 'cors'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\startup\cors.js[39m
+[31m- C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\index.js[39m
+[31m    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:745:27)[39m
+[31m    at Module.require (internal/modules/cjs/loader.js:961:19)[39m
+[31m    at require (internal/modules/cjs/helpers.js:92:18)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\startup\cors.js:1:14)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Module.require (internal/modules/cjs/loader.js:961:19)[39m
+29/08/2021, 22:57:56 [31merror[39m: [31muncaughtException: Cannot find module 'cors'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\startup\cors.js[39m
+[31m- C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\index.js[39m
+[31mError: Cannot find module 'cors'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\startup\cors.js[39m
+[31m- C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\index.js[39m
+[31m    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:745:27)[39m
+[31m    at Module.require (internal/modules/cjs/loader.js:961:19)[39m
+[31m    at require (internal/modules/cjs/helpers.js:92:18)[39m
+[31m    at Object.<anonymous> (C:\Users\Kaveen Thivanka\Desktop\reactjs\11-vidly-project\vidly\startup\cors.js:1:14)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1072:14)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:937:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:778:12)[39m
+[31m    at Module.require (internal/modules/cjs/loader.js:961:19)[39m
